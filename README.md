@@ -1,4 +1,4 @@
 # Math Tubes (web prototype)
 
-Playable build of the Math Tubes prototype:
+Playable build:
 https://kemalkaraoglanoglu-code.github.io/math-tubes-play/
